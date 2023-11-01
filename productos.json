@@ -1,0 +1,722 @@
+[
+    {
+        "clave": 1,
+        "descripcion": "Leche",
+        "clasificacion": "Lácteos",
+        "existencia": 100,
+        "existencia_minima": 10,
+        "existencia_maxima": 200,
+        "precio": 57
+    },
+    {
+        "clave": 2,
+        "descripcion": "Pan integral",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 100,
+        "precio": 28
+    },
+    {
+        "clave": 3,
+        "descripcion": "Jamón",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 26
+    },
+    {
+        "clave": 4,
+        "descripcion": "Manzanas",
+        "clasificacion": "Frutas",
+        "existencia": 10,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 88
+    },
+    {
+        "clave": 5,
+        "descripcion": "Yogur",
+        "clasificacion": "Lácteos",
+        "existencia": 80,
+        "existencia_minima": 15,
+        "existencia_maxima": 100,
+        "precio": 39
+    },
+    {
+        "clave": 6,
+        "descripcion": "Pan blanco",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 80
+    },
+    {
+        "clave": 7,
+        "descripcion": "Salchichas",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 31
+    },
+    {
+        "clave": 8,
+        "descripcion": "Plátanos",
+        "clasificacion": "Frutas",
+        "existencia": 70,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 64
+    },
+    {
+        "clave": 9,
+        "descripcion": "Queso",
+        "clasificacion": "Lácteos",
+        "existencia": 75,
+        "existencia_minima": 10,
+        "existencia_maxima": 100,
+        "precio": 62
+    },
+    {
+        "clave": 10,
+        "descripcion": "Croissants",
+        "clasificacion": "Panadería",
+        "existencia": 55,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 68
+    },
+    {
+        "clave": 11,
+        "descripcion": "Salami",
+        "clasificacion": "Carnes frías",
+        "existencia": 25,
+        "existencia_minima": 5,
+        "existencia_maxima": 40,
+        "precio": 82
+    },
+    {
+        "clave": 12,
+        "descripcion": "Uvas",
+        "clasificacion": "Frutas",
+        "existencia": 45,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 85
+    },
+    {
+        "clave": 13,
+        "descripcion": "Mantequilla",
+        "clasificacion": "Lácteos",
+        "existencia": 65,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 21
+    },
+    {
+        "clave": 14,
+        "descripcion": "Baguettes",
+        "clasificacion": "Panadería",
+        "existencia": 7,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 6
+    },
+    {
+        "clave": 15,
+        "descripcion": "Pavo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 63
+    },
+    {
+        "clave": 16,
+        "descripcion": "Naranjas",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 45
+    },
+    {
+        "clave": 17,
+        "descripcion": "Leche condensada",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 35
+    },
+    {
+        "clave": 18,
+        "descripcion": "Bollería",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 92
+    },
+    {
+        "clave": 19,
+        "descripcion": "Salchichón",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 87
+    },
+    {
+        "clave": 20,
+        "descripcion": "Cerezas",
+        "clasificacion": "Frutas",
+        "existencia": 10,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 61
+    },
+    {
+        "clave": 21,
+        "descripcion": "Crema de cacahuate",
+        "clasificacion": "Alimentos envasados",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 94
+    },
+    {
+        "clave": 22,
+        "descripcion": "Tortillas de maíz",
+        "clasificacion": "Panadería",
+        "existencia": 80,
+        "existencia_minima": 15,
+        "existencia_maxima": 100,
+        "precio": 84
+    },
+    {
+        "clave": 23,
+        "descripcion": "Salchichas de pavo",
+        "clasificacion": "Carnes frías",
+        "existencia": 8,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 77
+    },
+    {
+        "clave": 24,
+        "descripcion": "Fresas",
+        "clasificacion": "Frutas",
+        "existencia": 70,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 73
+    },
+    {
+        "clave": 25,
+        "descripcion": "Yogur de fresa",
+        "clasificacion": "Lácteos",
+        "existencia": 12,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 65
+    },
+    {
+        "clave": 26,
+        "descripcion": "Pan de centeno",
+        "clasificacion": "Panadería",
+        "existencia": 45,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 82
+    },
+    {
+        "clave": 27,
+        "descripcion": "Salchichas de pollo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 38
+    },
+    {
+        "clave": 28,
+        "descripcion": "Kiwi",
+        "clasificacion": "Frutas",
+        "existencia": 10,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 14
+    },
+    {
+        "clave": 29,
+        "descripcion": "Mantequilla de maní",
+        "clasificacion": "Alimentos envasados",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 30
+    },
+    {
+        "clave": 30,
+        "descripcion": "Pan de avena",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 44
+    },
+    {
+        "clave": 31,
+        "descripcion": "Chorizo",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 26
+    },
+    {
+        "clave": 32,
+        "descripcion": "Piña",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 49
+    },
+    {
+        "clave": 33,
+        "descripcion": "Queso crema",
+        "clasificacion": "Lácteos",
+        "existencia": 11,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 76
+    },
+    {
+        "clave": 34,
+        "descripcion": "Galletas",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 34
+    },
+    {
+        "clave": 35,
+        "descripcion": "Salchichas de pavo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 68
+    },
+    {
+        "clave": 36,
+        "descripcion": "Nectarinas",
+        "clasificacion": "Frutas",
+        "existencia": 55,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 70
+    },
+    {
+        "clave": 37,
+        "descripcion": "Leche de almendras",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 24
+    },
+    {
+        "clave": 38,
+        "descripcion": "Croissants de chocolate",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 38
+    },
+    {
+        "clave": 39,
+        "descripcion": "Jamoncillo",
+        "clasificacion": "Carnes frías",
+        "existencia": 6,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 51
+    },
+    {
+        "clave": 40,
+        "descripcion": "Uvas verdes",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 93
+    },
+    {
+        "clave": 41,
+        "descripcion": "Leche de coco",
+        "clasificacion": "Lácteos",
+        "existencia": 70,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 32
+    },
+    {
+        "clave": 42,
+        "descripcion": "Pan pita",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 97
+    },
+    {
+        "clave": 43,
+        "descripcion": "Chuletas de cerdo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 26
+    },
+    {
+        "clave": 44,
+        "descripcion": "Mangos",
+        "clasificacion": "Frutas",
+        "existencia": 55,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 74
+    },
+    {
+        "clave": 45,
+        "descripcion": "Leche de soja",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 46
+    },
+    {
+        "clave": 46,
+        "descripcion": "Donas",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 95
+    },
+    {
+        "clave": 47,
+        "descripcion": "Salchichas de res",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 77
+    },
+    {
+        "clave": 48,
+        "descripcion": "Ciruelas",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 98
+    },
+    {
+        "clave": 49,
+        "descripcion": "Crema de cacahuate crunchy",
+        "clasificacion": "Alimentos envasados",
+        "existencia": 12,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 80
+    },
+    {
+        "clave": 50,
+        "descripcion": "Pan de trigo",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 42
+    },
+    {
+        "clave": 51,
+        "descripcion": "Pechugas de pollo",
+        "clasificacion": "Carnes",
+        "existencia": 50,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 90
+    },
+    {
+        "clave": 52,
+        "descripcion": "Queso parmesano",
+        "clasificacion": "Lácteos",
+        "existencia": 45,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 32
+    },
+    {
+        "clave": 53,
+        "descripcion": "Pan de molde",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 63
+    },
+    {
+        "clave": 54,
+        "descripcion": "Salchichas de pavo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 43
+    },
+    {
+        "clave": 55,
+        "descripcion": "Peras",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 64
+    },
+    {
+        "clave": 56,
+        "descripcion": "Leche de almendras",
+        "clasificacion": "Lácteos",
+        "existencia": 70,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 78
+    },
+    {
+        "clave": 57,
+        "descripcion": "Rosquillas",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 0
+    },
+    {
+        "clave": 58,
+        "descripcion": "Salchichas de res",
+        "clasificacion": "Carnes frías",
+        "existencia": 8,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 15
+    },
+    {
+        "clave": 59,
+        "descripcion": "Cerezas",
+        "clasificacion": "Frutas",
+        "existencia": 45,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 36
+    },
+    {
+        "clave": 60,
+        "descripcion": "Leche de coco",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 84
+    },
+    {
+        "clave": 61,
+        "descripcion": "Pan pita",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 31
+    },
+    {
+        "clave": 62,
+        "descripcion": "Chuletas de cerdo",
+        "clasificacion": "Carnes",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 95
+    },
+    {
+        "clave": 63,
+        "descripcion": "Mangos",
+        "clasificacion": "Frutas",
+        "existencia": 55,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 63
+    },
+    {
+        "clave": 64,
+        "descripcion": "Leche de soja",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 23
+    },
+    {
+        "clave": 65,
+        "descripcion": "Donas",
+        "clasificacion": "Panadería",
+        "existencia": 10,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 15
+    },
+    {
+        "clave": 66,
+        "descripcion": "Salchichas de res",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 48
+    },
+    {
+        "clave": 67,
+        "descripcion": "Ciruelas",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 55
+    },
+    {
+        "clave": 68,
+        "descripcion": "Crema de cacahuate crunchy",
+        "clasificacion": "Alimentos envasados",
+        "existencia": 70,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 3
+    },
+    {
+        "clave": 69,
+        "descripcion": "Pan de trigo",
+        "clasificacion": "Panadería",
+        "existencia": 5,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 17
+    },
+    {
+        "clave": 70,
+        "descripcion": "Pechugas de pollo",
+        "clasificacion": "Carnes",
+        "existencia": 50,
+        "existencia_minima": 10,
+        "existencia_maxima": 70,
+        "precio": 52
+    },
+    {
+        "clave": 71,
+        "descripcion": "Queso parmesano",
+        "clasificacion": "Lácteos",
+        "existencia": 45,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 31
+    },
+    {
+        "clave": 72,
+        "descripcion": "Pan de molde",
+        "clasificacion": "Panadería",
+        "existencia": 40,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 10
+    },
+    {
+        "clave": 73,
+        "descripcion": "Salchichas de pavo",
+        "clasificacion": "Carnes frías",
+        "existencia": 30,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 12
+    },
+    {
+        "clave": 74,
+        "descripcion": "Peras",
+        "clasificacion": "Frutas",
+        "existencia": 60,
+        "existencia_minima": 10,
+        "existencia_maxima": 80,
+        "precio": 92
+    },
+    {
+        "clave": 75,
+        "descripcion": "Leche de almendras",
+        "clasificacion": "Lácteos",
+        "existencia": 10,
+        "existencia_minima": 10,
+        "existencia_maxima": 90,
+        "precio": 94
+    },
+    {
+        "clave": 76,
+        "descripcion": "Rosquillas",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 57
+    },
+    {
+        "clave": 77,
+        "descripcion": "Salchichas de res",
+        "clasificacion": "Carnes frías",
+        "existencia": 35,
+        "existencia_minima": 5,
+        "existencia_maxima": 50,
+        "precio": 37
+    },
+    {
+        "clave": 78,
+        "descripcion": "Cerezas",
+        "clasificacion": "Frutas",
+        "existencia": 5,
+        "existencia_minima": 5,
+        "existencia_maxima": 60,
+        "precio": 98
+    },
+    {
+        "clave": 79,
+        "descripcion": "Leche de coco",
+        "clasificacion": "Lácteos",
+        "existencia": 40,
+        "existencia_minima": 10,
+        "existencia_maxima": 60,
+        "precio": 66
+    },
+    {
+        "clave": 80,
+        "descripcion": "Pan pita",
+        "clasificacion": "Panadería",
+        "existencia": 50,
+        "existencia_minima": 5,
+        "existencia_maxima": 70,
+        "precio": 73
+    }
+]
